@@ -7,8 +7,8 @@ This challenge was self-initiated to gain **real-world hands-on experience** wit
 
 ## 📅 Challenge Duration
 
-**Start Date:** [Your Start Date]  
-**End Date:** [Your End Date]  
+**Start Date:** Feb 12, 2025  
+**End Date:** March 9,2025  
 **Total Duration:** 20 Days
 
 ---
